@@ -4,6 +4,7 @@
 
 <h1 align="center">👋 Hi there! I'm Karim</h1>
 <h2 align="center"> A MERN Stack Developer</h2>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🖥️ I’m interested in web development, especially using the MERN stack (MongoDB, Express.js, 
