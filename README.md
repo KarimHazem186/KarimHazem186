@@ -149,11 +149,11 @@ const karimHazem = {
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│  🏢  FLEXISRV  —  Full Stack Developer (CRM &amp; E-commerce)           │
+│  🏢  FLEXISRV  —  Full Stack Developer (CRM & E-commerce)           │
 │  📅  Jun 2025 – Present  |  1+ Year Experience                      │
 ├─────────────────────────────────────────────────────────────────────┤
-│  ✅  Developed &amp; maintained integrated e-commerce + CRM platform    │
-│  ✅  Engineered scalable architectures with Prisma &amp; SQL/MongoDB    │
+│  ✅  Developed & maintained integrated e-commerce + CRM platform    │
+│  ✅  Engineered scalable architectures with Prisma & SQL/MongoDB    │
 │  ✅  Built responsive, user-focused UIs with modern UI/UX           │
 │  ✅  Collaborated with cross-functional teams on production apps    │
 └─────────────────────────────────────────────────────────────────────┘
