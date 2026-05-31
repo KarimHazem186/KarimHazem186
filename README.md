@@ -65,7 +65,7 @@ const karimHazem = {
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats-seven-khaki-43.vercel.app/api/top-langs/?username=KarimHazem186&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" />
+<img width="40%" src="https://github-readme-stats-seven-khaki-43.vercel.app/api/top-langs/?username=KarimHazem186&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8&amp;hide=jupyter%20notebook" />
 
 </div>
 
