@@ -1,4 +1,4 @@
-﻿![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00d9ff&height=200&section=header&text=Karim%20Hazem%20Hamed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Next.js&descAlignY=55&descSize=20)
+﻿![Header](https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=200&section=header&text=Karim%20Hazem%20Hamed&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Next.js&descAlignY=60&descSize=18)
 
 <div align="center">
 
