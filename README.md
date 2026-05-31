@@ -236,4 +236,8 @@ const karimHazem = {
 
 📍 **Cairo, Egypt** &nbsp;|&nbsp; 📞 **+20 102 066 2653** &nbsp;|&nbsp; ✉️ **karimhazemhamed4@gmail.com**
 
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:833ab4,50:fd1d1d,100:fcb045&amp;height=120&amp;section=footer" />
+
 </div>
