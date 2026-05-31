@@ -1,4 +1,4 @@
-﻿![Header](https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=200&section=header&text=Karim%20Hazem%20Hamed&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Next.js&descAlignY=60&descSize=18)
+﻿![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=4000&pause=1000&color=6E40C9&center=true&vCenter=true&width=1000&height=200&lines=Karim+Hazem+Hamed;Full+Stack+Developer;MERN+%26+Next.js)
 
 <div align="center">
 
@@ -237,5 +237,3 @@ const karimHazem = {
 📍 **Cairo, Egypt** &nbsp;|&nbsp; 📞 **+20 102 066 2653** &nbsp;|&nbsp; ✉️ **karimhazemhamed4@gmail.com**
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00d9ff&height=120&section=footer)
