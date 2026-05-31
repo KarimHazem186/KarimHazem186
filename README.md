@@ -49,7 +49,7 @@ const karimHazem = {
 - 🛒 Specialized in **E-commerce, CRM &amp; Management Systems**
 - 🔐 Designing **secure RESTful APIs** with JWT Authentication
 - 🗄️ Optimizing databases with **Prisma, SQL &amp; MongoDB**
-- 🌍 Based in **Cairo, Egypt** — open to remote opportunities
+- 🌍 Based in **Cairo, Egypt**
 - 📫 Reach me at **karimhazemhamed4@gmail.com**
 
 <br clear="right"/>
