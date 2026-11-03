@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:00D9FF&height=190&section=header&text=Karim%20Hazem%20Hamed&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20MERN%20%26%20Next.js&descAlignY=56&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:00D9FF&height=120&section=header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=15%2B+production+apps+shipped+for+real+clients;E-commerce+%C2%B7+ERP+%C2%B7+CRM+%C2%B7+Booking+systems;Stripe+%C2%B7+Fawry+%C2%B7+InstaPay+%C2%B7+Sadad+integrations;Clients+in+Egypt%2C+Qatar%2C+Saudi+Arabia+%26+Italy" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1500&color=6E40C9&center=true&vCenter=true&width=800&height=60&lines=Karim+Hazem+Hamed;Full+Stack+Developer;MERN+%26+Next.js" alt="Karim Hazem Hamed" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=40&lines=15%2B+production+apps+for+real+clients;E-commerce+-+ERP+-+CRM+-+Booking+systems;Stripe%2C+Fawry%2C+InstaPay+%26+Sadad+payments;Clients+in+Egypt%2C+Qatar%2C+KSA+%26+Italy" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://karim-hazem-full-stack-developer.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -19,7 +21,7 @@ I build production web apps for real businesses, from the first requirements cal
 ```typescript
 const karim = {
   role:      "Full Stack Developer @ FLEXISRV",
-  location:  "Cairo, Egypt 🇪🇬",
+  location:  "Cairo, Egypt",
   stack: {
     frontend:  ["Next.js", "React", "TypeScript", "Angular", "Tailwind CSS"],
     backend:   ["Node.js", "Express.js", "REST APIs", "JWT"],
@@ -110,12 +112,8 @@ Graduation project: **Esaltare Dekör**, grade **A+**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-seven-khaki-43.vercel.app/api?username=KarimHazem186&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats-seven-khaki-43.vercel.app/api/top-langs/?username=KarimHazem186&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KarimHazem186&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-seven-khaki-43.vercel.app/api?username=KarimHazem186&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues,contribs&hide_rank=true" />
+  <img height="165" src="https://github-readme-stats-seven-khaki-43.vercel.app/api/top-langs/?username=KarimHazem186&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,scss,less,jupyter%20notebook" />
 </p>
 
 ## 🤝 Let's Connect
