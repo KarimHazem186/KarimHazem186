@@ -71,7 +71,7 @@ const karim = {
 | [**Positano Royal Limousine**](https://positanoroyallimousin.com/) | Chauffeur service, Amalfi Coast | Transfer quote flow, fleet showcase, airport/cruise/tour bookings | Next.js · TS · Prisma · MySQL · Docker |
 | [**Balmo**](https://balmowear.com/ar) | Fashion e-commerce | Collections, dynamic filtering, secure checkout, admin panel | Next.js · Prisma · SQL |
 | [**Modern Tech**](https://modern-tech.com.sa/ar) | Electronics e-commerce (KSA) | Brand collections, VAT calculation, checkout flow | Next.js · Prisma · SQL |
-| [**Injezly Café**](https://injezly-cafe-design.vercel.app/) | Café management system | Admin, Cashier, Waiter & KDS panels, branches, order tracking | React · Node · Express · MongoDB |
+| [**Online Food Delivery**](https://online-food-ordering-nu.vercel.app/) | Online Food Delivery | Admin, Cashier, Waiter & KDS panels, order tracking | React · Node · Express · MongoDB |
 
 ### 🏢 Internal & private systems
 
