@@ -75,7 +75,7 @@ const karim = {
 
 ### 🏢 Internal & private systems
 
-- **Task Management System**: used daily inside FLEXISRV; project and task dashboards with role-based auth *(Next.js · Prisma · MySQL)*
+- **Task Management System**: used daily inside Digital Trend for Creative Production; project and task dashboards with role-based auth *(Next.js · Prisma · MySQL)*
 - **Medical Supplies ERP**: offline desktop app for inventory and sales *(Electron · React · Prisma · SQLite)*
 
 ### 📂 Open source
