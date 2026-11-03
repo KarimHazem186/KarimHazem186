@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1500&color=6E40C9&center=true&vCenter=true&width=800&height=60&lines=Karim+Hazem+Hamed;Full+Stack+Developer;MERN+%26+Next.js" alt="Karim Hazem Hamed" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=40&lines=15%2B+production+apps+for+real+clients;E-commerce+-+ERP+-+CRM+-+Booking+systems;Stripe%2C+Fawry%2C+InstaPay+%26+Sadad+payments;Clients+in+Egypt%2C+Qatar%2C+KSA+%26+Italy" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=40&lines=15%2B+production+apps+for+real+clients;E-commerce+-+ERP+-+CRM+-+Booking+systems;Stripe%2C+CIB%2C+InstaPay+%26+Sadad+payments;Clients+in+Egypt%2C+Qatar%2C+KSA+%26+Italy" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://karim-hazem-full-stack-developer.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
