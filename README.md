@@ -66,12 +66,12 @@ const karim = {
 | Project | What it is | Highlights | Stack |
 |---|---|---|---|
 | [**El-Swifey**](https://elswifey.com/en) | Security cameras & electronics store | Nested categories, curated collections, COD, multilingual | Next.js · TS · Prisma · MySQL |
+| [**Online Food Delivery**](https://online-food-ordering-nu.vercel.app/) | Online Food Delivery | Admin, Cashier, Waiter & KDS panels, order tracking | React · Node · Express · MongoDB |
 | [**Al Arif Gallery**](https://alarifgallery.com/ar) | Art & antiques store (Qatar) | Sadad gateway, bank-transfer verification, QAR/USD/EUR, Qatar Post shipping | Next.js · Prisma · MySQL |
 | [**Arena Beach Resort & Spa**](https://arenabeachresorts.com/en) | 5★ Red Sea resort, Hurghada | Availability check & online booking, 4 languages, multi-currency | Next.js · TS · Prisma · MySQL · Docker |
 | [**Positano Royal Limousine**](https://positanoroyallimousin.com/) | Chauffeur service, Amalfi Coast | Transfer quote flow, fleet showcase, airport/cruise/tour bookings | Next.js · TS · Prisma · MySQL · Docker |
 | [**Balmo**](https://balmowear.com/ar) | Fashion e-commerce | Collections, dynamic filtering, secure checkout, admin panel | Next.js · Prisma · SQL |
 | [**Modern Tech**](https://modern-tech.com.sa/ar) | Electronics e-commerce (KSA) | Brand collections, VAT calculation, checkout flow | Next.js · Prisma · SQL |
-| [**Online Food Delivery**](https://online-food-ordering-nu.vercel.app/) | Online Food Delivery | Admin, Cashier, Waiter & KDS panels, order tracking | React · Node · Express · MongoDB |
 
 ### 🏢 Internal & private systems
 
